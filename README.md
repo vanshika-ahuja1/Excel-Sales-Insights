@@ -55,7 +55,7 @@ The dashboard helps to answer the following business questions:
 
 To get started, download the Excel file from this repository:
 
-- [Download sales data.xlsx](https://github.com/vanshika-ahuja1/Excel-Sales-Insights/raw/main/sales data.xlsx)
+- [Download sales data.xlsx](https://github.com/vanshika-ahuja1/Excel-Sales-Insights/raw/main/Sales Data.xlsx)
 
 ---
 
