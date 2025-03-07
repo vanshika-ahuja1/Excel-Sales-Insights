@@ -2,7 +2,7 @@
 
 ![ Sales Dashboard Screenshot](https://github.com/vanshika-ahuja1/Excel-Sales-Insights/blob/main/dashboard.png?raw=true)
 
-This repository contains an Excel dashboard for pizza sales analysis. The file `pizza_sales.xlsx` provides insights into various Key Performance Indicators (KPIs) and basic trends based on pizza sales data.
+This repository contains an Excel dashboard for  sales analysis. The file `Sales Data.xlsx` provides insights into various Key Performance Indicators (KPIs) and basic trends based on  sales data.
 
 ## Table of Contents
 
